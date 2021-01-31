@@ -1,2 +1,2 @@
-# ChaitanyaLiz_Portfolio.github.io
+# ChaitanyaLiz_Portfolio
 This is my Portfolio Website
